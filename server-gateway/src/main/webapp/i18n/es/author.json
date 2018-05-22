@@ -1,0 +1,27 @@
+
+{
+    "gatewayApp": {
+        "author" : {
+            "home": {
+                "title": "Authors",
+                "createLabel": "Crear nuevo Author",
+                "createOrEditLabel": "Crear o editar Author"
+            },
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Author {{ id }}?"
+            },
+            "detail": {
+                "title": "Author"
+            },
+            "name": "Name",
+            "lastname": "Lastname"
+        }
+    },
+    "app1App": {
+        "author" : {
+            "created": "Un nuevo Author ha sido creado con el identificador {{ param }}",
+            "updated": "Un Author ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Author ha sido eliminado con el identificador {{ param }}"
+        }
+    }
+}
